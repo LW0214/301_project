@@ -6,6 +6,15 @@ This projects builds upon Yoon Kim’s [Convolutional Neural Networks for Senten
 
 The result shows that cnn sequential depth don't matter that much for text classification task, as the simplest cnn model already achieve even slightly higher performance than using lenet:
 
+Special thanks to these 2 posts and tutorials:
+
+[CNN in keras with pretrained word2vec weights](https://www.kaggle.com/code/marijakekic/cnn-in-keras-with-pretrained-word2vec-weights/notebook)
+
+[How to Develop a Multichannel CNN Model for Text Classification](https://machinelearningmastery.com/develop-n-gram-multichannel-convolutional-neural-network-sentiment-analysis/)
+
+
+
+
 lenet:
 
 <img width="210" alt="image" src="https://user-images.githubusercontent.com/66658063/168525317-cb7c720a-80ad-4690-8ec9-8fcda07a542b.png">
